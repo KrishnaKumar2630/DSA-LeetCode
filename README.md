@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0867-transpose-matrix](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
