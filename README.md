@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0507-perfect-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
