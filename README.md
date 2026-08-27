@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
