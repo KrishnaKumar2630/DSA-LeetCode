@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
