@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0179-largest-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0283-move-zeroes) |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
