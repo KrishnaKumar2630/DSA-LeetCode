@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -149,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
