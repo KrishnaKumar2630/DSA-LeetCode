@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0179-largest-number) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
