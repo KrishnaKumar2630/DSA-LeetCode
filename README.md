@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,5 +243,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
