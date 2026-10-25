@@ -252,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
