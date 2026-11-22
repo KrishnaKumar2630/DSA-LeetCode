@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## String Matching
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/KrishnaKumar2630/DSA-LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
